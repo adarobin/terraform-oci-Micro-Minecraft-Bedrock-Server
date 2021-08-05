@@ -1,4 +1,4 @@
-# Minecraft Network Security Group
+# Minecraft Bedrock Network Security Group
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
