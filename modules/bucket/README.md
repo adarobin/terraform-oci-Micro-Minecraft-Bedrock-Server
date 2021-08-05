@@ -35,8 +35,8 @@ No modules.
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_bucket_name"></a> [bucket\_name](#input\_bucket\_name) | n/a | `string` | `"minecraft"` | no |
-| <a name="input_compartment_id"></a> [compartment\_id](#input\_compartment\_id) | The compartment to create the bucket in. This must be the compartment that has the Amazon S3 Compatibility API enabled. If not set, uses the root compartment (i.e. `tenancy_ocid`). Defaults to `null`. | `string` | `null` | no |
+| <a name="input_compartment_id"></a> [compartment\_id](#input\_compartment\_id) | The compartment to create the bucket in. This must be the compartment that has the Amazon S3 Compatibility API enabled. | `string` | n/a | yes |
+| <a name="input_name"></a> [name](#input\_name) | The name of the bucket used to store backups. | `string` | n/a | yes |
 | <a name="input_tenancy_ocid"></a> [tenancy\_ocid](#input\_tenancy\_ocid) | The OCID of the tenancy the bucket is being deployed in. This is needed to configure a service account and policy for access to the bucket. | `string` | n/a | yes |
 
 ## Outputs

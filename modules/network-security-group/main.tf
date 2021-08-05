@@ -1,7 +1,7 @@
 resource "oci_core_network_security_group" "minecraft_network_security_group" {
   compartment_id = var.compartment_id
   vcn_id         = var.vcn_id
-  display_name   = "Minecraft Network Security Group"
+  display_name   = var.display_name
 }
 
 resource "oci_core_network_security_group_security_rule" "minecraft_ipv4_rule" {

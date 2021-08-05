@@ -6,7 +6,6 @@ variable "compartment_id" {
 variable "display_name" {
   description = "The display name of the network security group. Defaults to \"Minecraft Network Security Group\"."
   type        = string
-  default     = "Minecraft Network Security Group"
 }
 
 variable "vcn_id" {
