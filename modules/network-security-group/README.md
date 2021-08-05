@@ -34,7 +34,7 @@ No modules.
 |------|-------------|------|---------|:--------:|
 | <a name="input_compartment_id"></a> [compartment\_id](#input\_compartment\_id) | The compartment to create the Network Security Group in. | `string` | n/a | yes |
 | <a name="input_display_name"></a> [display\_name](#input\_display\_name) | The display name of the network security group. Defaults to "Minecraft Network Security Group". | `string` | `"Minecraft Network Security Group"` | no |
-| <a name="input_vcn_id"></a> [vcn\_id](#input\_vcn\_id) | The OCID of the VCN that the Network Security Group should be created on. Defaults to `null`. | `string` | n/a | yes |
+| <a name="input_vcn_id"></a> [vcn\_id](#input\_vcn\_id) | The OCID of the VCN that the Network Security Group should be created on. | `string` | n/a | yes |
 
 ## Outputs
 

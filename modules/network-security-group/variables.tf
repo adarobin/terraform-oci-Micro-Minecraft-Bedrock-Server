@@ -10,6 +10,6 @@ variable "display_name" {
 }
 
 variable "vcn_id" {
-  description = "The OCID of the VCN that the Network Security Group should be created on. Defaults to `null`."
+  description = "The OCID of the VCN that the Network Security Group should be created on."
   type        = string
 }
