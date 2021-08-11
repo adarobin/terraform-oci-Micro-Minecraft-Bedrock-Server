@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt update
-sudo apt install curl git procps socat zip s3fs
+sudo apt install -y curl git procps socat zip s3fs
 git clone https://github.com/TapeWerm/MCscripts.git
 cd MCscripts
 sudo adduser --home /opt/MC --system mc
