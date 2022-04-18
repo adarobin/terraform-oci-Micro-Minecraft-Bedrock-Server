@@ -22,11 +22,11 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [oci_core_network_security_group.minecraft_network_security_group](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/core_network_security_group) | resource |
-| [oci_core_network_security_group_security_rule.minecraft_ipv4_rule](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/core_network_security_group_security_rule) | resource |
-| [oci_core_network_security_group_security_rule.minecraft_ipv6_rule](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/core_network_security_group_security_rule) | resource |
-| [oci_core_network_security_group_security_rule.minecraft_ping6_rule](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/core_network_security_group_security_rule) | resource |
-| [oci_core_network_security_group_security_rule.minecraft_ping_rule](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/core_network_security_group_security_rule) | resource |
+| [oci_core_network_security_group.minecraft_network_security_group](https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/core_network_security_group) | resource |
+| [oci_core_network_security_group_security_rule.minecraft_ipv4_rule](https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/core_network_security_group_security_rule) | resource |
+| [oci_core_network_security_group_security_rule.minecraft_ipv6_rule](https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/core_network_security_group_security_rule) | resource |
+| [oci_core_network_security_group_security_rule.minecraft_ping6_rule](https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/core_network_security_group_security_rule) | resource |
+| [oci_core_network_security_group_security_rule.minecraft_ping_rule](https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/core_network_security_group_security_rule) | resource |
 
 ## Inputs
 

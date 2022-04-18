@@ -22,14 +22,14 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [oci_identity_customer_secret_key.s3fs_key](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/identity_customer_secret_key) | resource |
-| [oci_identity_group.bucket_access_group](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/identity_group) | resource |
-| [oci_identity_policy.minecraft_bucket_policy](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/identity_policy) | resource |
-| [oci_identity_user.s3fs_user](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/identity_user) | resource |
-| [oci_identity_user_group_membership.bucket_access_group_membership](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/identity_user_group_membership) | resource |
-| [oci_objectstorage_bucket.minecraft_bucket](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/resources/objectstorage_bucket) | resource |
-| [oci_identity_compartment.bucket_compartment](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/data-sources/identity_compartment) | data source |
-| [oci_objectstorage_namespace.namespace](https://registry.terraform.io/providers/hashicorp/oci/latest/docs/data-sources/objectstorage_namespace) | data source |
+| [oci_identity_customer_secret_key.s3fs_key](https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/identity_customer_secret_key) | resource |
+| [oci_identity_group.bucket_access_group](https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/identity_group) | resource |
+| [oci_identity_policy.minecraft_bucket_policy](https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/identity_policy) | resource |
+| [oci_identity_user.s3fs_user](https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/identity_user) | resource |
+| [oci_identity_user_group_membership.bucket_access_group_membership](https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/identity_user_group_membership) | resource |
+| [oci_objectstorage_bucket.minecraft_bucket](https://registry.terraform.io/providers/oracle/oci/latest/docs/resources/objectstorage_bucket) | resource |
+| [oci_identity_compartment.bucket_compartment](https://registry.terraform.io/providers/oracle/oci/latest/docs/data-sources/identity_compartment) | data source |
+| [oci_objectstorage_namespace.namespace](https://registry.terraform.io/providers/oracle/oci/latest/docs/data-sources/objectstorage_namespace) | data source |
 
 ## Inputs
 
