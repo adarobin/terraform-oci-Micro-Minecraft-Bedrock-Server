@@ -17,7 +17,7 @@ No providers.
 | Name | Source | Version |
 |------|--------|---------|
 | <a name="module_minecraft_bucket"></a> [minecraft\_bucket](#module\_minecraft\_bucket) | ./modules/bucket | n/a |
-| <a name="module_minecraft_instance"></a> [minecraft\_instance](#module\_minecraft\_instance) | adarobin/E2-Micro-Always-Free-Instance/oci | >= 0.3.0 |
+| <a name="module_minecraft_instance"></a> [minecraft\_instance](#module\_minecraft\_instance) | adarobin/E2-Micro-Always-Free-Instance/oci | >= 0.4.0 |
 | <a name="module_minecraft_network_security_group"></a> [minecraft\_network\_security\_group](#module\_minecraft\_network\_security\_group) | ./modules/network-security-group | n/a |
 
 ## Resources
