@@ -6,7 +6,7 @@ locals {
 
 module "minecraft_instance" {
   source  = "adarobin/E2-Micro-Always-Free-Instance/oci"
-  version = ">= 0.3.0"
+  version = ">= 0.4.0"
 
   compartment_id      = local.instance_compartment_id
   availability_domain = var.availability_domain
